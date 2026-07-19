@@ -18,8 +18,3 @@ I like turning complex information into clear, useful systems.
   <img src="./assets/toolkit.png" width="100%" alt="Toolkit"/>
 </p>
 
-## Simulated Quantitative Model
-
-<p align="center">
-  <img src="./assets/simulated-quant-model.png" width="100%" alt="Simulated quantitative model"/>
-</p>
